@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.bluetoothlegatt.Battery_ON_OFF">
+
+    <ScrollView
+        android:layout_width="372dp"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="100dp"
+                android:orientation="vertical"
+                android:paddingTop="0dp">
+
+                <EditText
+                    android:id="@+id/editText_username"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:ems="10"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="italic|bold"
+                    android:background="@android:color/transparent"
+                    android:inputType="textPersonName"
+                   android:hint="Mail"/>
+
+                <EditText
+                    android:id="@+id/editText_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:ems="10"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="italic|bold"
+                    android:background="@android:color/transparent"
+                android:inputType="textPassword"
+                 android:hint="Password"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:orientation="horizontal">
+
+                <CheckBox
+                    android:id="@+id/checkBox2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:layout_weight="1"
+                    android:textColor="#000000"
+                    android:textSize="10dp"
+                    android:textStyle="italic|bold"
+                    android:text="Remember " />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="30dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/savecoud"
+                    android:layout_width="150dp"
+                    android:textColor="#000000"
+                    android:textSize="30dp"
+                    android:textStyle="italic|bold"
+                    android:layout_height="wrap_content"
+                    android:text="Login" />
+
+                <Button
+                    android:id="@+id/backcloud"
+                    android:layout_width="150dp"
+                    android:layout_height="wrap_content"
+                    android:textColor="#000000"
+                    android:textSize="30dp"
+                    android:textStyle="italic|bold"
+                    android:text="Back" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>

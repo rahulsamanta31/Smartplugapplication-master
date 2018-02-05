@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.bluetoothlegatt.Cloud_operation">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <Switch
+                    android:id="@+id/manual_id_ON_OFF"
+                    android:layout_width="300dp"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="30dp"
+                    android:text=" ON/OFF"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="italic|bold" />
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:text="scheduling"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="italic|bold" />
+                <TextView
+                    android:id="@+id/textViewfrom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:text="From"
+                    android:textColor="#000000"
+                    android:textSize="15dp"
+                    android:textStyle="italic|bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="50dp"
+                    android:text="Date"
+                    android:textAlignment="center"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="italic|bold" />
+
+                <TextView
+                    android:id="@+id/in_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:hint="Date"
+                    android:paddingLeft="30dp"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="italic|bold" />
+
+                <Button
+                    android:id="@+id/btn_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingLeft="50dp"
+                    android:text="Time"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="italic|bold" />
+
+                <TextView
+                    android:id="@+id/in_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:hint="Time"
+                    android:paddingLeft="20dp"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="italic|bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+                <TextView
+                    android:id="@+id/textViewto"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="30dp"
+                    android:text="To"
+                    android:textColor="#000000"
+                    android:textSize="15dp"
+                    android:textStyle="italic|bold" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/btn_date_to"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="50dp"
+                    android:text="Date"
+                    android:textAlignment="center"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="italic|bold" />
+
+                <TextView
+                    android:id="@+id/in_date_to"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:hint="Date"
+                    android:paddingLeft="30dp"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="italic|bold" />
+
+                <Button
+                    android:id="@+id/btn_time_to"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingLeft="50dp"
+                    android:text="Time"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="italic|bold" />
+
+                <TextView
+                    android:id="@+id/in_time_to"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:hint="Time"
+                    android:paddingLeft="20dp"
+                    android:textColor="#000000"
+                    android:textSize="20dp"
+                    android:textStyle="italic|bold" />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="30dp"
+                android:orientation="horizontal">
+
+                <Button
+                    android:id="@+id/savecoud"
+                    android:layout_width="match_parent"
+                    android:textColor="#000000"
+                    android:textSize="30dp"
+                    android:textStyle="italic|bold"
+                    android:layout_height="match_parent"
+                    android:text="Save" />
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+</android.support.constraint.ConstraintLayout>
