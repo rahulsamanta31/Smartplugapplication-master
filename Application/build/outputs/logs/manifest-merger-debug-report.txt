@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:16:1-75:12
+INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:16:1-75:12
+INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:16:1-75:12
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\4ef904d48cfe81c0883958f31c78101f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\eb373613d46be62e94c1d83bf9167876\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1af3c9a3251979ce34ecc65b27fa0dec\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\e1cb4372404114e9c25a10a543274354\AndroidManifest.xml:17:1-28:12
+MERGED from [com.basgeekball:awesome-validation:1.3] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\awesome-validation-1.3.aar\c910f2839cbd2c03e85f355336eabdc9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\53e5b47c09730264c45621dc41a2f821\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0969c3d67408964edad86edfa7141c1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b1b047ef1da6d5861e919745ecd3fe95\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6fe1759792055036cf3521583694da98\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d2d8a107303ef9bc731ec44fc82f5093\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\81a16e0f2f3a0de7853e4b768fe95265\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8507e8fdcc2e6bea9e9ab43c304412a7\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9938e0042d0750c37ab39118863fcc70\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b5bb43645292781d6db832d520d80ded\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:16:1-75:12
+INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:16:1-75:12
+	package
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:17:5-50
+	android:versionName
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:16:11-69
+	android:versionCode
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:21:5-23:41
+INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:21:5-23:41
+INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:21:5-23:41
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\4ef904d48cfe81c0883958f31c78101f\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\4ef904d48cfe81c0883958f31c78101f\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\eb373613d46be62e94c1d83bf9167876\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\eb373613d46be62e94c1d83bf9167876\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1af3c9a3251979ce34ecc65b27fa0dec\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1af3c9a3251979ce34ecc65b27fa0dec\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\e1cb4372404114e9c25a10a543274354\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\e1cb4372404114e9c25a10a543274354\AndroidManifest.xml:20:5-44
+MERGED from [com.basgeekball:awesome-validation:1.3] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\awesome-validation-1.3.aar\c910f2839cbd2c03e85f355336eabdc9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.basgeekball:awesome-validation:1.3] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\awesome-validation-1.3.aar\c910f2839cbd2c03e85f355336eabdc9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\53e5b47c09730264c45621dc41a2f821\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\53e5b47c09730264c45621dc41a2f821\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0969c3d67408964edad86edfa7141c1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0969c3d67408964edad86edfa7141c1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b1b047ef1da6d5861e919745ecd3fe95\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b1b047ef1da6d5861e919745ecd3fe95\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6fe1759792055036cf3521583694da98\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6fe1759792055036cf3521583694da98\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d2d8a107303ef9bc731ec44fc82f5093\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d2d8a107303ef9bc731ec44fc82f5093\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\81a16e0f2f3a0de7853e4b768fe95265\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\81a16e0f2f3a0de7853e4b768fe95265\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8507e8fdcc2e6bea9e9ab43c304412a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8507e8fdcc2e6bea9e9ab43c304412a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9938e0042d0750c37ab39118863fcc70\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9938e0042d0750c37ab39118863fcc70\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b5bb43645292781d6db832d520d80ded\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b5bb43645292781d6db832d520d80ded\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:21:5-23:41
+INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:21:5-23:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\4ef904d48cfe81c0883958f31c78101f\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:23:9-38
+		INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:22:9-35
+		INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:34:5-36:35
+	android:required
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:36:9-32
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:35:9-53
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:38:5-81
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:38:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:39:5-79
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:39:22-76
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:40:5-68
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:40:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:41:5-74
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:41:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:42:5-79
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:42:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:43:5-81
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:43:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:44:5-75
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:44:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:45:5-80
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:45:22-77
+application
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:47:5-73:19
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\4ef904d48cfe81c0883958f31c78101f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\4ef904d48cfe81c0883958f31c78101f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\eb373613d46be62e94c1d83bf9167876\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\eb373613d46be62e94c1d83bf9167876\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1af3c9a3251979ce34ecc65b27fa0dec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1af3c9a3251979ce34ecc65b27fa0dec\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\e1cb4372404114e9c25a10a543274354\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\e1cb4372404114e9c25a10a543274354\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\53e5b47c09730264c45621dc41a2f821\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\53e5b47c09730264c45621dc41a2f821\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0969c3d67408964edad86edfa7141c1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0969c3d67408964edad86edfa7141c1\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b1b047ef1da6d5861e919745ecd3fe95\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b1b047ef1da6d5861e919745ecd3fe95\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6fe1759792055036cf3521583694da98\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6fe1759792055036cf3521583694da98\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d2d8a107303ef9bc731ec44fc82f5093\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d2d8a107303ef9bc731ec44fc82f5093\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\81a16e0f2f3a0de7853e4b768fe95265\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\81a16e0f2f3a0de7853e4b768fe95265\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8507e8fdcc2e6bea9e9ab43c304412a7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8507e8fdcc2e6bea9e9ab43c304412a7\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9938e0042d0750c37ab39118863fcc70\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9938e0042d0750c37ab39118863fcc70\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b5bb43645292781d6db832d520d80ded\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b5bb43645292781d6db832d520d80ded\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:49:9-41
+	android:icon
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:48:9-40
+	android:theme
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:50:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:51:9-59:20
+	android:label
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:53:13-45
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:52:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:57:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:60:9-59
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:60:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:62:9-64:38
+	android:enabled
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:64:13-35
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:63:13-47
+activity#com.example.android.bluetoothlegatt.Enable_disable
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:66:9-52
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:66:19-49
+activity#com.example.android.bluetoothlegatt.Manual_ON_OFF
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:67:9-51
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:67:19-48
+activity#com.example.android.bluetoothlegatt.Battery_ON_OFF
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:68:9-52
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:68:19-49
+activity#com.example.android.bluetoothlegatt.Battery_on_off_save
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:69:9-57
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:69:19-54
+activity#com.example.android.bluetoothlegatt.Setting
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:70:9-45
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:70:19-42
+activity#com.example.android.bluetoothlegatt.Cloud_ON_OFF
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:71:9-50
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:71:19-47
+activity#com.example.android.bluetoothlegatt.Cloud_operation
+ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:72:9-62
+	android:name
+		ADDED from C:\Users\Embdes\Desktop\Smartplugapplication-master\Application\src\main\AndroidManifest.xml:72:19-50
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\4ef904d48cfe81c0883958f31c78101f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\eb373613d46be62e94c1d83bf9167876\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\eb373613d46be62e94c1d83bf9167876\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1af3c9a3251979ce34ecc65b27fa0dec\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\1af3c9a3251979ce34ecc65b27fa0dec\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\e1cb4372404114e9c25a10a543274354\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\e1cb4372404114e9c25a10a543274354\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0969c3d67408964edad86edfa7141c1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\e0969c3d67408964edad86edfa7141c1\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b1b047ef1da6d5861e919745ecd3fe95\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\b1b047ef1da6d5861e919745ecd3fe95\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6fe1759792055036cf3521583694da98\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\6fe1759792055036cf3521583694da98\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d2d8a107303ef9bc731ec44fc82f5093\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\d2d8a107303ef9bc731ec44fc82f5093\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\81a16e0f2f3a0de7853e4b768fe95265\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\81a16e0f2f3a0de7853e4b768fe95265\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8507e8fdcc2e6bea9e9ab43c304412a7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\8507e8fdcc2e6bea9e9ab43c304412a7\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9938e0042d0750c37ab39118863fcc70\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9938e0042d0750c37ab39118863fcc70\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\4ef904d48cfe81c0883958f31c78101f\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\4ef904d48cfe81c0883958f31c78101f\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b5bb43645292781d6db832d520d80ded\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b5bb43645292781d6db832d520d80ded\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Embdes\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b5bb43645292781d6db832d520d80ded\AndroidManifest.xml:26:13-58

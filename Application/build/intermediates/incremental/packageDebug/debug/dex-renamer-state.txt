@@ -1,0 +1,4 @@
+#Mon Feb 05 18:52:39 IST 2018
+base.0=D\:\\Smart Plud Add on\\EFY\\EFYdemoapplication\\Smartplugapplication-master\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
